@@ -42,5 +42,5 @@ func vowelConsonan(str string) {
 		}
 	}
 
-	fmt.Println("huruf mati: ", len(c), ",huruf hidup: ", len(ilangSama) )
+	fmt.Println("huruf mati: ", len(c), ",huruf hidup: ", len(ilangSama))
 }
