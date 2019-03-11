@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message AbjadRequest {
+  int32 hurufMati = 1;
+  int32 hurufHidup = 2;
+  string urutanAbjad = 3;
+}
